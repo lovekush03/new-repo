@@ -1,2 +1,0 @@
-This is written from new_branch branch
-This is written from main branch. done from new branch. done from main branch.
